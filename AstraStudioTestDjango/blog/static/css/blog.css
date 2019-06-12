@@ -1,0 +1,43 @@
+html {
+	color: red;
+}
+
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color : #AAA;
+}
+
+.tbl1 
+{ 
+	background: url('../img/back.jpg'); 
+	background-repeat: no-repeat; 
+	background-color : #e5e5e5;
+	margin-top:0.5em;
+	border: 1px solid red;
+} 
+
+p, main {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 75%;
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a:visited {
+	color: #411;
+}
+
+.post_text{
+	font-weight: normal;
+}
+
+.post_published{
+	font-weight: bold;
+}
+
+.post_title{
+	font-style: italic;
+}
